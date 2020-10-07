@@ -1,0 +1,6 @@
+JDK 11
+Tomcat 9
+Jboss 
+
+Hardware spec
+6GB , 3VPC
